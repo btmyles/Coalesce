@@ -19,7 +19,10 @@
 
 ### Description
 
-Coalesce is a basic Arcade style game that merges the gameplay of Tetris-like tile-dropping and Candy Crush tile-merging while adding difficulty progression without the pressure of forced-play or timers. 
+Coalesce is an arcade game that merges Tetris-like tile-dropping and Candy Crush tile-merging while adding difficulty progression without the pressure of forced-play or timers. 
 
 Coalesce means to merge into a single item. When 3 or more spheres are merged, they turn into a sphere of the next color in sequence. This helps clear the board, but also increases the difficulty as more color variety enters the game! Try to clear as many spheres as possible before the grid fills up!
 
+### Idea Credit 
+
+This is application is inspired by the Mindjolt game: Combine.
