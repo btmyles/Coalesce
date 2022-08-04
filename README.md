@@ -11,11 +11,12 @@
 
 ### Screenshots
 
-<p><img src="/screenshots/1.png" width="150">
-   <img src="/screenshots/2.png" width="150">
-   <img src="/screenshots/3.png" width="150">
-   <img src="/screenshots/4.png" width="150">
-   <img src="/screenshots/5.png" width="150"></p>
+<p><img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot1.jpeg" width="150">
+   <img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot2.jpeg" width="150">
+   <img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot3.jpeg" width="150">
+   <img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot4.jpeg" width="150">
+   <img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot6.jpeg" width="150">
+   <img src="/Assets/Images/Screenshots/Android Pixel 5 - 6/screenshot7.jpeg" width="150"></p>
 
 ### Description
 
